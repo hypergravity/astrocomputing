@@ -13,6 +13,10 @@ Astro-computing
    chapter_introduction/index
    chapter_basics/index
    chapter_scientific_python/index
+   chapter_numeric_methods/index
+   chapter_astronomical_data/index
+   chapter_high_performance/index
+
 
 
 Indices and tables
