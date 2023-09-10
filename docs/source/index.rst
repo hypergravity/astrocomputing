@@ -10,6 +10,7 @@ Welcome to astro-computing's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   chapter_introduction/index
 
 
 Indices and tables
