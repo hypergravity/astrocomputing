@@ -1,1 +1,3 @@
 furo
+recommonmark
+git+https://github.com/executablebooks/sphinx-copybutton.git
