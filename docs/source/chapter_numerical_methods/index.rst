@@ -5,4 +5,6 @@ Numeric Methods
    :maxdepth: 2
    :caption: Contents:
 
-   linear_algebra
+   linear_algebra.ipynb
+   interpolation.ipynb
+   curve_fitting.ipynb
