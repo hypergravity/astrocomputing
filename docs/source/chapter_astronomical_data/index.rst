@@ -17,4 +17,15 @@ Astronomical Data Analysis
 
    formats
 
+Examples
+--------
+
+- LAMOST spectrum
+- CSST image
+- MaNGA CUBE
+
+
+Homework
+--------
+
 
