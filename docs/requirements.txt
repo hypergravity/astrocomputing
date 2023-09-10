@@ -2,3 +2,5 @@ furo
 recommonmark
 nbsphinx
 git+https://github.com/executablebooks/sphinx-copybutton.git
+ipython
+notebook
