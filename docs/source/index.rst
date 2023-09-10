@@ -16,8 +16,6 @@ Astro-computing
    chapter_numeric_methods/index
    chapter_astronomical_data/index
    chapter_high_performance/index
-   test.ipynb
-
 
 
 Indices and tables

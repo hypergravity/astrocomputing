@@ -16,6 +16,8 @@ Astronomical Data Analysis
    :caption: Contents:
 
    formats
+   ndarray.ipynb
+
 
 Examples
 --------
@@ -27,5 +29,13 @@ Examples
 
 Homework
 --------
+
+
+References
+----------
+
+
+SDSS-MaNGA
+    https://www.sdss4.org/surveys/manga/
 
 
