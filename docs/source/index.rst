@@ -12,8 +12,7 @@ Astro-computing
 
    chapter_introduction/index
    chapter_basics/index
-   chapter_scientific_python/index
-   chapter_numerical_methods/index
+   chapter_scientific_computing/index
    chapter_astronomical_data/index
    chapter_high_performance/index
    test.ipynb
