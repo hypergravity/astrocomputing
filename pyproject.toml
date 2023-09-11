@@ -1,6 +1,6 @@
 [project]
 name = "astrocomputing"
-description = "Bo Zhang's scratch board."
+description = "Astronomical Computing"
 version = "0.0.1"
 authors = [
     { name = "Bo Zhang", email = "bozhang@nao.cas.cn" }
