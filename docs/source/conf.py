@@ -59,7 +59,7 @@ html_theme = 'furo'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_title = "Astronomial Computing"
+html_title = "Astronomical Computing"
 html_short_title = "Astrocomputing"
 html_codeblock_linenos_style = "table"
 
