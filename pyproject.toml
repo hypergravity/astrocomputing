@@ -17,6 +17,10 @@ authors = [
 #    "bump2version"
 #]
 
-#[build-system]
-#requires = ["setuptools>=65.0.0", "wheel"]
-#build-backend = "setuptools.build_meta:__legacy__"
+[tool.poetry.packages]
+include = ["astrocomputing"]
+exclude = ["ref"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

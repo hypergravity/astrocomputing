@@ -6,6 +6,12 @@
 Astro-computing
 ===============
 
+**Astronomical Computing**.
+
+This is probably a missing semester in your astronomical education.
+
+Here goes the contents
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -16,6 +22,8 @@ Astro-computing
    chapter_astronomical_data/index
    chapter_high_performance/index
    test.ipynb
+   references
+
 
 
 Indices and tables
