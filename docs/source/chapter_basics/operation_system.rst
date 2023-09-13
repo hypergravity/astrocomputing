@@ -15,6 +15,8 @@ Popular Operation Systems
 Linux Distributions
 -------------------
 
+See `Linux official website <https://www.linux.org>`_ for more info.   
+
 A Linux distribution (or distro for short) is a collection of software 
 that is built on top of the Linux kernel. It includes the kernel itself, 
 as well as a set of libraries and tools that are necessary to run the operating system. 
@@ -45,32 +47,25 @@ Arch Linux
     A rolling release distribution that is known 
     for its flexibility and customization options.
 
-Linux distributions are a great choice for a wide range of users, from beginners to experienced system administrators. They are free to use and distribute, and they offer a wide range of features and customization options.
-
+Linux distributions are a great choice for a wide range of users, 
+from beginners to experienced system administrators. 
+They are free to use and distribute, 
+and they offer a wide range of features and customization options.
 
 
 .. image:: ../_static/linux_distributions.png
-    :alt: 24 Popular Linux Distributions. See `Linux official website <https://www.linux.org>`_
-    
+    :alt: 24 Popular Linux Distributions.
     
 
 Why `Ubuntu`
 ------------
 
-Debian series:
+Reasons to pick Ubuntu:
 
-- Debian
-    - Package management: `apt`
-    - Desktop: `GNOME`
-    - Latest release: 12
-- Ubuntu: https://ubuntu.com/
-    - Package management: `apt`
-    - Desktop: `GNOME`
-    - Latest release: 22.04LTS / 23.04
+- Active community: easy to find solutions when facing problems!
+- Package management: `apt`
+- Desktop: `GNOME`
+- Latest release: 22.04LTS / 23.04
 
-
-
-
-
-
-
+See `Ubuntu official website <https://ubuntu.com/>`_ for more info.
+    
