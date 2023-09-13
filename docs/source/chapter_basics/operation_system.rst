@@ -5,11 +5,11 @@ Popular Operation Systems
 -------------------------
 
 - Windows
-    Personal PCs.
+    Desktop.
 - Linux
     Servers.
 - MacOS
-    Personal PCs.
+    Desktop.
 
 
 Linux Distributions
