@@ -20,14 +20,15 @@ https://www.python.org/
 Play around
 -----------
 
-If you want to play around with Python before complicated installtion, 
-try `Online Python <https://www.online-python.com/>`_.
+Try `Online Python <https://www.online-python.com/>`_ 
+to play around with Python before complicated installtion.
 
 
 Hello world
 -----------
 
-This is probably the simplest *hello world* case among the most popular programming languages.
+This is probably the simplest *hello world* case 
+among the most popular programming languages.
 
     >>> print("Hello world!")
     Hello world!
@@ -36,7 +37,7 @@ This is probably the simplest *hello world* case among the most popular programm
 The Zen of Python
 -----------------
 
-Ref: https://peps.python.org/pep-0020/#the-zen-of-python
+See https://peps.python.org/pep-0020/#the-zen-of-python.
 
 
 .. code-block:: text
